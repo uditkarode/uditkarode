@@ -5,5 +5,5 @@
 </p>
 <br>
 <p align='right'>
-	- Richard Feynman
+	Richard Feynman
 </p>
